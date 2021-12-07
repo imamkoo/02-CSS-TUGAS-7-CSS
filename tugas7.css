@@ -1,0 +1,28 @@
+body {
+    background-image: url(/Tugas-CSS/Stupa_Borobudur.jpg);
+    background-size: cover;
+}
+
+div {
+    margin: -5px 660px;
+}
+
+.justify {
+    width: 600px;
+    height: 450px;
+    border: 2px solid red;
+    color: blue;
+    margin-right: 60px;
+    background-image: url(avocado.jpg);
+    background-size: 220px;
+}
+
+.repeat {
+    width: 600px;
+    height: 450px;
+    border: 2px solid red;
+    background: url(avocado.jpg) bottom right;
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
